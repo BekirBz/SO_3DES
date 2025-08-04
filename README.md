@@ -43,7 +43,7 @@
 
 ### Credits:
 Project created by:
-* Bekir Bozokla
+* Bekir Bozoklar
 * Wonil Choi
 * Meryem Hanyn
 * Yujin Jeon
